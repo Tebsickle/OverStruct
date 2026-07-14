@@ -6,7 +6,7 @@ A small datapack that easily tweaks spawn rates of structures in Minecraft. To b
 
 1. Download the repo.
 
-2. *Optional:* Run `ChangeSettings.py` to adjust separation and spacing to your own values. This datapack defaults to `spacing=2` and `separation=1`
+2. *Optional:* Run `ChangeSettings.py` to adjust separation and spacing to your own values. This datapack defaults to `spacing=2` and `separation=1`. Spacing determines the minimum number of chunks between structure sets, and separation determines the minimum blocks between each structure in the set.
 
 3. Create a new world in Minecraft. In the Datapacks section, add this repo's folder to it.
 
